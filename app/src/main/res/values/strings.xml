@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="conjuctionTitle">Conjuction (AND)</string>
+    <string name="btnSumbit">Sumbit</string>
+    <string name="letterT">T</string>
+    <string name="Correct">The number of correct answers is: </string>
+</resources>
